@@ -50,7 +50,7 @@ The Spearman Rank Correlation came out at rho = 0.356, p = 0.256.
 Weak. Non-significant. Meaning Indian gamers don't prioritise the same 
 factors that dominate global research. Perceived Enjoyment, Habit, and 
 Satisfaction ranked much higher for Indian respondents than factors like 
-Perceived Value and Social Influence — which global studies consistently 
+Perceived Value and Social Influence, which global studies consistently 
 flag as dominant.
 
 This misalignment is the central finding of Phase 2. It tells us a 
