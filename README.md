@@ -54,11 +54,11 @@ Perceived Value and Social Influence — which global studies consistently
 flag as dominant.
 
 This misalignment is the central finding of Phase 2. It tells us a 
-dedicated India-specific study isn't just useful — it's necessary.
+dedicated India-specific study isn't just useful but rather necessary, especially for the marketers.
 
 **Phase 3 (proposed):** Full-scale primary survey targeting 300+ active 
 Indian online gamers, recruited through Reddit, Discord, and Steam gaming 
-communities. The method will be PLS-SEM (SmartPLS 4.0) — chosen because 
+communities. The method will be PLS-SEM (SmartPLS 4.0), because 
 the 12 factors are latent constructs that can't be directly measured, and 
 because PLS-SEM tests all 12 factor-to-purchase-intention relationships 
 simultaneously in one unified model. Game genre and spending level will 
